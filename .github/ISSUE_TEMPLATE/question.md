@@ -1,5 +1,5 @@
 ---
-name: "質問"
+name: "質問／問合せ"
 about: "使い方、方針、判断基準などの質問"
 title: "質問: "
 labels: ["question"]
