@@ -1,8 +1,8 @@
 ---
-name: "調査"
+name: "調査検討"
 about: "原因調査、技術調査、検証（Spike/PoC）、方針決定のための情報収集"
 title: "調査: "
-labels: ["investigation"]
+labels: ["question"]
 assignees: ""
 ---
 
